@@ -1,0 +1,230 @@
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #ffffff;
+    background-clip: border-box;
+    border: 1px solid #e6e4e9;
+    border-radius: 8px;
+
+    background-color:  #def2f1;
+}
+
+.card .card-header {
+
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    min-height: 50px;
+}
+
+
+.card-cust-title-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.comp-prof {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #edf1fc;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 18%;
+}
+
+
+
+.card-cust-date-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #ebf7ff;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.card-cust-date-info .card-cust-date-day {
+  color: #36afff;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+body{
+  background-color: #def2f1;
+}
+.card-cust-date-month {
+  color: #36afff;
+  line-height: 1;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.card-cust-date-warning {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: floralwhite;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.card-cust-date-day {
+  color: #FFC868;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.card-cust-date-month {
+  color: #FFC868;
+  line-height: 1;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.card-cust-date-danger {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #feeeef;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+
+
+.card-cust-date-light {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fefeff;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.card-cust-date-day {
+  color: #f7f9fa;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.card-cust-date-month {
+  color: #f7f9fa;
+  line-height: 1;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.card-cust-date-dark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #ebedee;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.card-cust-date-day {
+  color: #394856;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 1;
+}
+
+.card-cust-date-month {
+  color: #394856;
+  line-height: 1;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.card-cust-date-base {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #f0fafb;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.card-cust-position {
+  display: flex;
+  flex-direction: column;
+  margin-left: 1rem;
+}
+
+ .card-cust-title {
+  color: #000000;
+  font-size: 20px;
+}
+
+ .card-cust-date {
+  color: #000000;
+  font-size: 20px;
+}
+
+.requirements {
+  font-weight: 400;
+  font-size: 13px;
+  margin-top: .5rem;
+}
+
+ .req-point {
+  font-size: 20px;
+  color: #000000;
+}
+
+ .req-point span {
+  margin-left: .5rem;
+}
+
+.card-cust-meeting-action {
+  text-align: right;
+}
+.apply-container{
+  background-color: white;
+  border-radius: 18px;
+  margin-left:16vw; 
+  margin-right:16vw; 
+}
+.bg-c-blue {
+  background: linear-gradient(45deg,#4099ff,#73b4ff);
+}
+
+.bg-c-green {
+  background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+}
+
+.bg-c-yellow {
+  background: linear-gradient(45deg,#FFB64D,#ffcb80);
+}
+
+.bg-c-pink {
+  background: linear-gradient(45deg,#FF5370,#ff869a);
+}
+.card-block{
+  padding: 40px;
+}
+.propic{
+  border-radius: 50%;
+  border: 1px solid black;
+}

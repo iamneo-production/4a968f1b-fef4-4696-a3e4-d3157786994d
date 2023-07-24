@@ -1,0 +1,48 @@
+.container-home{
+    margin-top: 15vh;
+        background-color: #2b7a78;
+        height: 80vh;
+}
+.container-len{
+    margin-top: 20vh;
+}
+.cont{
+    margin-top: 30vh;
+}
+.container-home-2 {
+    background-color: black;
+    height: 70vh;
+}
+.container-home-3 {
+    background-color: #2b7a78;
+    height: 60vh;
+}
+/* p{
+    justify-content: center;
+    align-items: center;
+} */
+.simg{
+    height: 30px;
+    margin: 20px 10px;
+}
+.logo{
+    height: 5rem;
+    width: 4rem;
+}
+.imgpos{
+    margin: 80px;
+    margin-left: 230px;
+}
+.img-text{
+    padding: 30px;
+    margin-left: 70px;
+}
+.get{
+ padding: 20px;
+ margin-left: 520px;
+}
+
+.intcust{
+    margin-left: 17vw;
+    margin-right: 17vw;
+}
